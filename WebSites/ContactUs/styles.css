@@ -1,0 +1,54 @@
+﻿html {
+    background-color: lightgray;
+}
+
+body {
+    font-family: Arial;
+    font-size: 16px;
+}
+
+#container {
+    width:70%;
+    background-color: lightblue;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:30px;
+    padding-left: 30px;
+    border-radius: 5px;
+    padding-top:5px;
+    padding-bottom:30px;
+}
+
+
+
+h1 {
+    font-size: 38px;
+    font-weight: bold;
+}
+
+
+.txtInput {
+    page-break-after: always;
+    height: 36px;
+    background-color: white;
+    border-color:royalblue;
+    border-radius: 7px;
+    display:block;
+}
+
+.inputs {
+    margin: 10px 0 10px 20px;
+}
+
+#btnSubmit {
+    height: 36px;
+    background-color:royalblue;
+    color: white;
+    border-radius: 7px;
+}
+
+#txtaMessage {
+    width:171px;
+    border-width:2px;
+    height: 80px;
+}
